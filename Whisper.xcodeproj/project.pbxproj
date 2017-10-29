@@ -105,7 +105,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXHeadersBuildPhase section */
+
 
 /* Begin PBXNativeTarget section */
 		290530F81C20511C00FB382C /* Whisper-iOS */ = {
